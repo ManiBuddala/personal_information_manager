@@ -25,7 +25,7 @@ A beginner-friendly Python CLI application that collects personal details from a
 
 ## Getting Started
 
-#Prerequisites
+#Prerequisites: 
 Ensure you have Python installed. You can check your version by running:
 ```bash
 python --version
